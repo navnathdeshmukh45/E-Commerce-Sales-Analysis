@@ -5,12 +5,13 @@ This project provides a comprehensive data analysis of an E-commerce store using
 ## Project Objectives
 
 1. **Calculate monthly sales** and identify which month had the highest and lowest sales.
-2. **Analyze sales by product category** to determine which category has the highest and lowest sales.
-3. **Analyze sales by sub-category** for deeper insights.
-4. **Analyze monthly profit** and identify the month with the highest profit.
-5. **Analyze profit by category and sub-category**.
-6. **Analyze sales and profit by customer segment**.
-7. **Calculate and analyze the sales to profit ratio**.
+2. 
+3. **Analyze sales by product category** to determine which category has the highest and lowest sales.
+4. **Analyze sales by sub-category** for deeper insights.
+5. **Analyze monthly profit** and identify the month with the highest profit.
+6. **Analyze profit by category and sub-category**.
+7. **Analyze sales and profit by customer segment**.
+8. **Calculate and analyze the sales to profit ratio**.
 
 ## Dataset
 
