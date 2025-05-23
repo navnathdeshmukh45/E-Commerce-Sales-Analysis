@@ -35,10 +35,13 @@ The dataset contains order-level details, including:
 This project uses interactive visualizations created with Plotly to make the analysis insightful and easy to understand. Below are the types of charts included in the Jupyter Notebook, along with example images (located in the `images` folder):
 
 - **Line Charts:**  
-  - Monthly Sales Analysis  
-    ![Monthly Sales Analysis](images/monthly_sales.png)
+  - Monthly Sales Analysis
+  ![Monthly Sales Analysis](https://github.com/user-attachments/assets/d1e9c24e-1097-4c05-b8e5-b3e979e9a153)
+
+    
   - Monthly Profit Analysis  
-    ![Monthly Profit Analysis](images/monthly_profit.png)
+ ![Monthly Profit Analysis](https://github.com/user-attachments/assets/daf18dec-8ab0-4152-b3c7-2e4a7087d202)
+
 
 - **Pie Charts:**  
   - Sales by Category  
