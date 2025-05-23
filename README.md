@@ -29,6 +29,38 @@ The dataset contains order-level details, including:
 - Jupyter Notebook
 - Matplotlib / Seaborn (for visualization, if used)
 
+
+  ## Visualizations
+
+This project uses interactive visualizations created with Plotly to make the analysis insightful and easy to understand. Below are the types of charts included in the Jupyter Notebook, along with example images (located in the `images` folder):
+
+- **Line Charts:**  
+  - Monthly Sales Analysis  
+    ![Monthly Sales Analysis](images/monthly_sales.png)
+  - Monthly Profit Analysis  
+    ![Monthly Profit Analysis](images/monthly_profit.png)
+
+- **Pie Charts:**  
+  - Sales by Category  
+    ![Sales by Category](images/sales_by_category.png)
+  - Profit by Category  
+    ![Profit by Category](images/profit_by_category.png)
+
+- **Bar Charts:**  
+  - Sales by Sub-Category  
+    ![Sales by Sub-Category](images/sales_by_subcategory.png)
+  - Profit by Sub-Category  
+    ![Profit by Sub-Category](images/profit_by_subcategory.png)
+  - Sales and Profit by Customer Segment  
+    ![Sales and Profit by Customer Segment](images/sales_profit_by_segment.png)
+
+- **Tabular Output:**  
+  - Sales-to-Profit Ratio by Customer Segment  
+    ![Sales to Profit Ratio](images/sales_to_profit_ratio.png)
+
+All visualizations are interactive in the notebook, and static images are provided here for quick reference.
+
+
 ## How to Run
 
 1. Clone this repository.
